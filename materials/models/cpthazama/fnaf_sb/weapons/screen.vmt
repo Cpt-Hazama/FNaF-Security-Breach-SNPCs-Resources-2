@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+    "$basetexture"              "models/cpthazama/fnaf_sb/weapons/screen"
+	"$phongexponenttexture"     "vj_base/exponent"
+
+	// "$translucent" "1"
+
+	"$phong"				"1"
+	"$phongboost"			"25"
+	"$phongfresnelranges"	"[0.035 0.2 1]"
+	"$phongalbedotint"		"1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "1"
+	"$rimlightboost" "30"
+	"$rimmask" "1"
+
+    "$lightwarptexture"				"models/cpthazama/fnaf_sb/warp2"
